@@ -10,4 +10,4 @@ open jupyter notebook to run!
 Happy coding!!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-<img src = "image/Matrix.JPG" />
+
