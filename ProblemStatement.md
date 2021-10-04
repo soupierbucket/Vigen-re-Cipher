@@ -5,10 +5,10 @@ When the vigenere table is given, the encryption and decryption are done using t
 
 <img src = "Matrix.JPG" width="520" height="420" />
 
-<b>Encryption:</b>
-<br>
+<h3 align="justify">Encryption:</h3>
+
 There are 2 inputs:
-<br>
+
 <ul>
 <li>Plaintext: Text that is to be encrypted</li>
 <li>Key: key used for encryption</li>
