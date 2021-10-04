@@ -10,4 +10,3 @@ open jupyter notebook to run!
 Happy coding!!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-![Matrix](https://user-images.githubusercontent.com/42323328/135830583-41275970-6370-43c2-8ad5-fe7049d42a55.JPG)
