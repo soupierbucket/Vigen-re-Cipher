@@ -1,4 +1,6 @@
 # Vigen-re-Cipher
-This contains an execute code for Vigenère Cipher
+<p>This contains an execute code for Vigenère Cipher
+</p>
 <br>
-This file contains all the necessary information regarding how the Cipher works!
+<p>This file contains all the necessary information regarding how the Cipher works!
+</p>
